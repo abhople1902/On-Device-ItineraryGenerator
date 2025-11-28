@@ -9,9 +9,18 @@ import SwiftUI
 
 @main
 struct Foundation_ItineraryApp: App {
+    private var modelData = ModelData.shared
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LandmarksHomeView()
+                .environment(modelData)
+                #if os(macOS)
+                .frame(width: 500, height: 800)
+                #endif
         }
+        #if os(macOS)
+        .windowResizability(.contentSize)
+        #endif
     }
 }
