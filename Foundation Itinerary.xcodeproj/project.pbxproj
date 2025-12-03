@@ -29,22 +29,9 @@
 		DCF9CF142ED971C400BFF445 /* Foundation ItineraryUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Foundation ItineraryUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		DC5DD2AD2EE0130500193D15 /* Exceptions for "Foundation Itinerary" folder in "Foundation Itinerary" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Resources/screenrec.gif,
-			);
-			target = DCF9CEFC2ED971C200BFF445 /* Foundation Itinerary */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		DCF9CEFF2ED971C200BFF445 /* Foundation Itinerary */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				DC5DD2AD2EE0130500193D15 /* Exceptions for "Foundation Itinerary" folder in "Foundation Itinerary" target */,
-			);
 			path = "Foundation Itinerary";
 			sourceTree = "<group>";
 		};
