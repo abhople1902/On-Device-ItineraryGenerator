@@ -1,11 +1,6 @@
-<!-- ========================================================= -->
-<!--               🎥 VIDEO DEMO PLACEHOLDER                   -->
-<!--  Add GIF / YouTube link / .mp4 preview here later         -->
-<!-- ========================================================= -->
 
-<p align="center">
-  <img src="" alt="Demo coming soon..." width="400"/>
-</p>
+https://github.com/user-attachments/assets/9fdc6285-289f-4a43-bc10-e5fe80ea1dd2
+
 
 <br/>
 
